@@ -13,7 +13,6 @@ import org.springframework.data.mongodb.core.mapping.Document;
 public class Movie {
 
     private String id;
-
     @NonNull
     private String title;
 
